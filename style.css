@@ -1,0 +1,22 @@
+body {
+  font-family: "Source Han Serif CN for Display";
+  font-weight: "200";
+}
+.wrapper-pic {
+  width: 50vw;
+  height: 50vh;
+}
+#lovebird {
+  object-fit: fill;
+}
+.icon-social {
+  margin: 2rem;
+}
+.icon-social img {
+  width: 50px;
+  height: 50px;
+}
+.icon-social svg {
+  width: 50px;
+  height: 50px;
+}
